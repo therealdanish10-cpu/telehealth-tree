@@ -1,0 +1,3705 @@
+[
+  {
+    "name": "Health",
+    "description": "Personal well-being, lifestyle, relationships, caregiving, recreation, creative arts, and community living.",
+    "children": [
+      {
+        "name": "Arts, Music & Performance",
+        "children": [
+          {
+            "name": "Dancing (salsa, ballet, hip-hop, ballroom)"
+          },
+          {
+            "name": "Singing"
+          },
+          {
+            "name": "Vocal training"
+          },
+          {
+            "name": "Acting"
+          },
+          {
+            "name": "Music"
+          },
+          {
+            "name": "Guitar"
+          },
+          {
+            "name": "Piano"
+          },
+          {
+            "name": "Drums"
+          },
+          {
+            "name": "Songwriting"
+          },
+          {
+            "name": "Painting"
+          },
+          {
+            "name": "Drawing"
+          },
+          {
+            "name": "Sketching"
+          },
+          {
+            "name": "Photography"
+          },
+          {
+            "name": "Videography"
+          },
+          {
+            "name": "Creative writing"
+          },
+          {
+            "name": "Poetry"
+          },
+          {
+            "name": "Public speaking"
+          },
+          {
+            "name": "Stand-up comedy"
+          },
+          {
+            "name": "Theater"
+          },
+          {
+            "name": "Pottery"
+          },
+          {
+            "name": "Crafts"
+          },
+          {
+            "name": "Knitting"
+          },
+          {
+            "name": "Calligraphy"
+          },
+          {
+            "name": "Fashion design"
+          },
+          {
+            "name": "Drumming"
+          },
+          {
+            "name": "Violin"
+          },
+          {
+            "name": "Bass guitar"
+          },
+          {
+            "name": "Music theory"
+          },
+          {
+            "name": "Drawing and sketching"
+          },
+          {
+            "name": "Theater and improv"
+          },
+          {
+            "name": "Ukulele"
+          },
+          {
+            "name": "Saxophone"
+          }
+        ]
+      },
+      {
+        "name": "Dating, Marriage & Relationships",
+        "children": [
+          {
+            "name": "Dating"
+          },
+          {
+            "name": "Online dating profiles"
+          },
+          {
+            "name": "First-date tips"
+          },
+          {
+            "name": "Marriage"
+          },
+          {
+            "name": "Premarital guidance"
+          },
+          {
+            "name": "Relationship advice"
+          },
+          {
+            "name": "Communication"
+          },
+          {
+            "name": "Family relationships"
+          },
+          {
+            "name": "Conflict resolution"
+          },
+          {
+            "name": "Breakups"
+          },
+          {
+            "name": "Long-distance relationships"
+          },
+          {
+            "name": "Friendships"
+          },
+          {
+            "name": "In-law relationships"
+          },
+          {
+            "name": "Wedding vows"
+          },
+          {
+            "name": "Breakup recovery"
+          },
+          {
+            "name": "Setting boundaries"
+          },
+          {
+            "name": "Wedding vows and speeches"
+          },
+          {
+            "name": "Blended families"
+          },
+          {
+            "name": "Conflict resolution for couples"
+          },
+          {
+            "name": "Dating after 40"
+          },
+          {
+            "name": "Building trust"
+          },
+          {
+            "name": "Arranged marriage guidance"
+          },
+          {
+            "name": "Friendship building"
+          },
+          {
+            "name": "Anniversary planning"
+          },
+          {
+            "name": "Communicating with in-laws"
+          }
+        ]
+      },
+      {
+        "name": "Health, Fitness & Wellness",
+        "children": [
+          {
+            "name": "Healthcare navigation"
+          },
+          {
+            "name": "Diet"
+          },
+          {
+            "name": "Nutrition"
+          },
+          {
+            "name": "Weight management"
+          },
+          {
+            "name": "Yoga"
+          },
+          {
+            "name": "Pilates"
+          },
+          {
+            "name": "Fitness"
+          },
+          {
+            "name": "Home workouts"
+          },
+          {
+            "name": "Meditation"
+          },
+          {
+            "name": "Mindfulness"
+          },
+          {
+            "name": "Stress management"
+          },
+          {
+            "name": "Sleep habits"
+          },
+          {
+            "name": "Coping"
+          },
+          {
+            "name": "Thriving"
+          },
+          {
+            "name": "Healthy habits"
+          },
+          {
+            "name": "First aid basics"
+          },
+          {
+            "name": "Women's wellness"
+          },
+          {
+            "name": "Senior wellness"
+          },
+          {
+            "name": "Calisthenics"
+          },
+          {
+            "name": "Posture correction"
+          },
+          {
+            "name": "Intermittent fasting basics"
+          },
+          {
+            "name": "Hydration habits"
+          },
+          {
+            "name": "Walking programs"
+          },
+          {
+            "name": "CrossFit basics"
+          },
+          {
+            "name": "Cycling"
+          },
+          {
+            "name": "Boxing fitness"
+          },
+          {
+            "name": "Healthy aging"
+          },
+          {
+            "name": "Sleep routines"
+          },
+          {
+            "name": "Stretching for desk workers"
+          }
+        ]
+      },
+      {
+        "name": "Gaming & Esports",
+        "children": [
+          {
+            "name": "One or many video games"
+          },
+          {
+            "name": "Gaming strategies"
+          },
+          {
+            "name": "Esports"
+          },
+          {
+            "name": "Poker"
+          },
+          {
+            "name": "Game reviews"
+          },
+          {
+            "name": "Board games"
+          },
+          {
+            "name": "Chess"
+          },
+          {
+            "name": "Mobile games"
+          },
+          {
+            "name": "Game streaming"
+          },
+          {
+            "name": "Game design"
+          },
+          {
+            "name": "Speedrunning"
+          },
+          {
+            "name": "Fantasy sports"
+          },
+          {
+            "name": "Gaming PC builds"
+          },
+          {
+            "name": "Minecraft"
+          },
+          {
+            "name": "Fortnite"
+          },
+          {
+            "name": "Call of Duty tips"
+          },
+          {
+            "name": "Fortnite building and strategy"
+          },
+          {
+            "name": "Minecraft survival and redstone"
+          },
+          {
+            "name": "Valorant"
+          },
+          {
+            "name": "League of Legends"
+          },
+          {
+            "name": "FIFA and EA FC"
+          },
+          {
+            "name": "Madden and NBA 2K"
+          },
+          {
+            "name": "Roblox game creation"
+          },
+          {
+            "name": "Game streaming on Twitch"
+          },
+          {
+            "name": "Retro gaming"
+          },
+          {
+            "name": "Tabletop RPGs like Dungeons and Dragons"
+          }
+        ]
+      },
+      {
+        "name": "Religion & Spirituality",
+        "children": [
+          {
+            "name": "Religious beliefs and practices"
+          },
+          {
+            "name": "Spiritual practices"
+          },
+          {
+            "name": "Faith discussions"
+          },
+          {
+            "name": "Meditation"
+          },
+          {
+            "name": "Scripture study"
+          },
+          {
+            "name": "Prayer guidance"
+          },
+          {
+            "name": "Comparative religion"
+          },
+          {
+            "name": "Spiritual counseling"
+          },
+          {
+            "name": "Astrology"
+          },
+          {
+            "name": "Mindfulness"
+          },
+          {
+            "name": "Interfaith dialogue"
+          },
+          {
+            "name": "Quran recitation basics"
+          },
+          {
+            "name": "Bible study"
+          },
+          {
+            "name": "Torah study"
+          },
+          {
+            "name": "Buddhism basics"
+          },
+          {
+            "name": "Hinduism basics"
+          },
+          {
+            "name": "Sikhism basics"
+          },
+          {
+            "name": "Fasting and Ramadan practices"
+          },
+          {
+            "name": "Pilgrimage preparation"
+          },
+          {
+            "name": "Faith and mental health"
+          },
+          {
+            "name": "Raising children in faith"
+          },
+          {
+            "name": "Meditation traditions"
+          }
+        ]
+      },
+      {
+        "name": "Travel, Hotels & Tourism",
+        "children": [
+          {
+            "name": "Travel"
+          },
+          {
+            "name": "Travel planning"
+          },
+          {
+            "name": "Hotels"
+          },
+          {
+            "name": "Trip preparation"
+          },
+          {
+            "name": "Itinerary planning"
+          },
+          {
+            "name": "Local attractions"
+          },
+          {
+            "name": "Budget travel"
+          },
+          {
+            "name": "Visa guidance"
+          },
+          {
+            "name": "Solo travel"
+          },
+          {
+            "name": "Family travel"
+          },
+          {
+            "name": "Flight booking tips"
+          },
+          {
+            "name": "Tour guiding"
+          },
+          {
+            "name": "Hospitality"
+          },
+          {
+            "name": "Road trips"
+          },
+          {
+            "name": "Pilgrimage planning"
+          },
+          {
+            "name": "Family trips"
+          },
+          {
+            "name": "Backpacking"
+          },
+          {
+            "name": "Cruise planning"
+          },
+          {
+            "name": "Travel hacking and points"
+          },
+          {
+            "name": "Hotel management"
+          },
+          {
+            "name": "Airbnb hosting"
+          },
+          {
+            "name": "Visa and passport process"
+          },
+          {
+            "name": "Safari and adventure travel"
+          },
+          {
+            "name": "Heritage tours"
+          }
+        ]
+      },
+      {
+        "name": "Food, Cooking & Hospitality",
+        "children": [
+          {
+            "name": "Cooking"
+          },
+          {
+            "name": "Baking"
+          },
+          {
+            "name": "Meal planning"
+          },
+          {
+            "name": "Food preparation"
+          },
+          {
+            "name": "Hosting"
+          },
+          {
+            "name": "Event catering"
+          },
+          {
+            "name": "Regional cuisines"
+          },
+          {
+            "name": "Vegan and vegetarian cooking"
+          },
+          {
+            "name": "Cake decorating"
+          },
+          {
+            "name": "Barbecue"
+          },
+          {
+            "name": "Coffee and tea"
+          },
+          {
+            "name": "Restaurant management"
+          },
+          {
+            "name": "Food safety"
+          },
+          {
+            "name": "Meal prep on a budget"
+          },
+          {
+            "name": "Barbecue and grilling"
+          },
+          {
+            "name": "Pastry and cake decorating"
+          },
+          {
+            "name": "Bread making"
+          },
+          {
+            "name": "Indian cooking"
+          },
+          {
+            "name": "Italian cooking"
+          },
+          {
+            "name": "Chinese cooking"
+          },
+          {
+            "name": "Mexican cooking"
+          },
+          {
+            "name": "Coffee and barista skills"
+          },
+          {
+            "name": "Cocktail and mocktail making"
+          },
+          {
+            "name": "Food photography"
+          },
+          {
+            "name": "Knife skills"
+          }
+        ]
+      },
+      {
+        "name": "Pets, Childcare & Family Support",
+        "children": [
+          {
+            "name": "Pet care"
+          },
+          {
+            "name": "Childcare"
+          },
+          {
+            "name": "Parenting guidance"
+          },
+          {
+            "name": "Pet training"
+          },
+          {
+            "name": "Child development basics"
+          },
+          {
+            "name": "Newborn care"
+          },
+          {
+            "name": "Toddler routines"
+          },
+          {
+            "name": "Dog and cat training"
+          },
+          {
+            "name": "Aquariums"
+          },
+          {
+            "name": "Bird care"
+          },
+          {
+            "name": "Babysitting"
+          },
+          {
+            "name": "Elder care"
+          },
+          {
+            "name": "Special occasions with kids"
+          },
+          {
+            "name": "Homeschooling"
+          },
+          {
+            "name": "Dog training"
+          },
+          {
+            "name": "Cat behavior"
+          },
+          {
+            "name": "Aquarium keeping"
+          },
+          {
+            "name": "Horse care"
+          },
+          {
+            "name": "Puppy socialization"
+          },
+          {
+            "name": "Pet grooming"
+          },
+          {
+            "name": "Potty training"
+          },
+          {
+            "name": "Teen parenting"
+          },
+          {
+            "name": "Babysitting skills"
+          },
+          {
+            "name": "Adoption and foster care"
+          },
+          {
+            "name": "Homework help"
+          },
+          {
+            "name": "Single parenting"
+          }
+        ]
+      },
+      {
+        "name": "Sports & Recreation",
+        "children": [
+          {
+            "name": "Sports"
+          },
+          {
+            "name": "Exercise techniques"
+          },
+          {
+            "name": "Sports rules"
+          },
+          {
+            "name": "Recreational activities"
+          },
+          {
+            "name": "Hobby coaching"
+          },
+          {
+            "name": "Cricket"
+          },
+          {
+            "name": "Football"
+          },
+          {
+            "name": "Basketball"
+          },
+          {
+            "name": "Tennis"
+          },
+          {
+            "name": "Swimming"
+          },
+          {
+            "name": "Golf"
+          },
+          {
+            "name": "Martial arts"
+          },
+          {
+            "name": "Running"
+          },
+          {
+            "name": "Cycling"
+          },
+          {
+            "name": "Hiking"
+          },
+          {
+            "name": "Camping"
+          },
+          {
+            "name": "Fishing"
+          },
+          {
+            "name": "Skating"
+          },
+          {
+            "name": "Swimming lessons"
+          },
+          {
+            "name": "Table tennis"
+          },
+          {
+            "name": "Volleyball"
+          },
+          {
+            "name": "Rock climbing"
+          },
+          {
+            "name": "Skateboarding"
+          },
+          {
+            "name": "Hiking and trekking"
+          },
+          {
+            "name": "Snooker and pool"
+          },
+          {
+            "name": "Archery"
+          },
+          {
+            "name": "Yoga for athletes"
+          },
+          {
+            "name": "Hockey"
+          },
+          {
+            "name": "Fantasy sports"
+          }
+        ]
+      },
+      {
+        "name": "Events, Parties & Social Activities",
+        "children": [
+          {
+            "name": "Event planning"
+          },
+          {
+            "name": "Parties"
+          },
+          {
+            "name": "Celebrations"
+          },
+          {
+            "name": "Wedding planning"
+          },
+          {
+            "name": "Social gatherings"
+          },
+          {
+            "name": "Birthday parties"
+          },
+          {
+            "name": "Corporate events"
+          },
+          {
+            "name": "Party decorations"
+          },
+          {
+            "name": "DJ and entertainment tips"
+          },
+          {
+            "name": "Baby showers"
+          },
+          {
+            "name": "Conferences"
+          },
+          {
+            "name": "Fundraisers"
+          },
+          {
+            "name": "Venue selection"
+          },
+          {
+            "name": "Corporate retreats"
+          },
+          {
+            "name": "Festival planning"
+          },
+          {
+            "name": "Fundraising events"
+          },
+          {
+            "name": "Birthday party games"
+          },
+          {
+            "name": "Event photography"
+          },
+          {
+            "name": "DJ services"
+          },
+          {
+            "name": "Catering logistics"
+          },
+          {
+            "name": "Conference organizing"
+          },
+          {
+            "name": "Anniversary parties"
+          },
+          {
+            "name": "Eid and holiday gatherings"
+          },
+          {
+            "name": "Hosting game nights"
+          }
+        ]
+      },
+      {
+        "name": "Weather, Environment & Outdoors",
+        "children": [
+          {
+            "name": "Weather"
+          },
+          {
+            "name": "Weather forecasting basics"
+          },
+          {
+            "name": "Gardening"
+          },
+          {
+            "name": "Outdoor activities"
+          },
+          {
+            "name": "Nature"
+          },
+          {
+            "name": "Environmental awareness"
+          },
+          {
+            "name": "Climate change"
+          },
+          {
+            "name": "Recycling"
+          },
+          {
+            "name": "Sustainable living"
+          },
+          {
+            "name": "Bird watching"
+          },
+          {
+            "name": "Survival skills"
+          },
+          {
+            "name": "Farming and agriculture"
+          },
+          {
+            "name": "Renewable energy"
+          },
+          {
+            "name": "Camping"
+          },
+          {
+            "name": "Composting"
+          },
+          {
+            "name": "Solar energy basics"
+          },
+          {
+            "name": "Storm preparedness"
+          },
+          {
+            "name": "Wildlife watching"
+          },
+          {
+            "name": "Climate science basics"
+          },
+          {
+            "name": "Fishing and boating safety"
+          },
+          {
+            "name": "Reading weather maps"
+          },
+          {
+            "name": "Gardening in small spaces"
+          },
+          {
+            "name": "Water conservation"
+          }
+        ]
+      },
+      {
+        "name": "Social & Community Services",
+        "children": [
+          {
+            "name": "Social services"
+          },
+          {
+            "name": "Community resources"
+          },
+          {
+            "name": "Grants"
+          },
+          {
+            "name": "Funding opportunities"
+          },
+          {
+            "name": "Finding support services"
+          },
+          {
+            "name": "Nonprofit setup"
+          },
+          {
+            "name": "Volunteering"
+          },
+          {
+            "name": "Charity work"
+          },
+          {
+            "name": "Welfare programs"
+          },
+          {
+            "name": "Scholarships"
+          },
+          {
+            "name": "Funding and loans for small groups"
+          },
+          {
+            "name": "Community organizing"
+          },
+          {
+            "name": "Nonprofit management"
+          },
+          {
+            "name": "Youth mentoring"
+          },
+          {
+            "name": "Food bank operations"
+          },
+          {
+            "name": "Refugee and newcomer support"
+          },
+          {
+            "name": "Crisis hotline volunteering"
+          },
+          {
+            "name": "Grant-funded programs"
+          },
+          {
+            "name": "Homeless outreach"
+          },
+          {
+            "name": "Disaster relief"
+          },
+          {
+            "name": "Community tutoring"
+          },
+          {
+            "name": "Neighborhood associations"
+          },
+          {
+            "name": "Charity fundraising"
+          }
+        ]
+      },
+      {
+        "name": "Personal Development & Life Skills",
+        "children": [
+          {
+            "name": "Coping"
+          },
+          {
+            "name": "Thriving"
+          },
+          {
+            "name": "Confidence"
+          },
+          {
+            "name": "Time management"
+          },
+          {
+            "name": "Goal setting"
+          },
+          {
+            "name": "Decision-making"
+          },
+          {
+            "name": "Everyday problem-solving"
+          },
+          {
+            "name": "Motivation"
+          },
+          {
+            "name": "Life coaching"
+          },
+          {
+            "name": "Habit building"
+          },
+          {
+            "name": "Emotional intelligence"
+          },
+          {
+            "name": "Self-discipline"
+          },
+          {
+            "name": "Productivity"
+          },
+          {
+            "name": "Interview skills"
+          },
+          {
+            "name": "Anger management"
+          },
+          {
+            "name": "Minimalism"
+          },
+          {
+            "name": "Overcoming procrastination"
+          },
+          {
+            "name": "Confidence building"
+          },
+          {
+            "name": "Learning to learn"
+          },
+          {
+            "name": "Adulting basics"
+          },
+          {
+            "name": "Morning routines"
+          },
+          {
+            "name": "Networking for introverts"
+          },
+          {
+            "name": "Financial habits for young adults"
+          }
+        ]
+      },
+      {
+        "name": "Healthcare Information & Caregiving",
+        "children": [
+          {
+            "name": "Healthcare navigation"
+          },
+          {
+            "name": "Understanding health insurance"
+          },
+          {
+            "name": "Medical terminology"
+          },
+          {
+            "name": "Nursing knowledge"
+          },
+          {
+            "name": "Caregiver training"
+          },
+          {
+            "name": "First aid and CPR"
+          },
+          {
+            "name": "Patient advocacy"
+          },
+          {
+            "name": "Preparing for doctor visits (general information only, not a substitute for a licensed doctor)"
+          },
+          {
+            "name": "Medical billing"
+          },
+          {
+            "name": "Home health aide basics"
+          },
+          {
+            "name": "Dementia caregiving"
+          },
+          {
+            "name": "Postpartum support"
+          },
+          {
+            "name": "Understanding prescriptions"
+          },
+          {
+            "name": "Preparing for surgery"
+          },
+          {
+            "name": "Hospital stays"
+          },
+          {
+            "name": "Palliative care basics"
+          },
+          {
+            "name": "Nutrition for caregivers"
+          },
+          {
+            "name": "Medical interpretation"
+          },
+          {
+            "name": "Finding a doctor"
+          },
+          {
+            "name": "Insurance appeals"
+          }
+        ]
+      },
+      {
+        "name": "Mental Wellness, Coping & Thriving",
+        "children": [
+          {
+            "name": "Coping skills"
+          },
+          {
+            "name": "Thriving through change"
+          },
+          {
+            "name": "Stress relief"
+          },
+          {
+            "name": "Resilience"
+          },
+          {
+            "name": "Burnout recovery"
+          },
+          {
+            "name": "Mindfulness"
+          },
+          {
+            "name": "Journaling"
+          },
+          {
+            "name": "Self-care routines"
+          },
+          {
+            "name": "Work-life balance (educational coaching only, not therapy)"
+          },
+          {
+            "name": "Anxiety coping skills"
+          },
+          {
+            "name": "Managing anger"
+          },
+          {
+            "name": "Self-esteem"
+          },
+          {
+            "name": "Work-life balance"
+          },
+          {
+            "name": "Loneliness"
+          },
+          {
+            "name": "Social anxiety"
+          },
+          {
+            "name": "Mindful parenting"
+          },
+          {
+            "name": "Positive psychology"
+          },
+          {
+            "name": "Life transitions"
+          },
+          {
+            "name": "Stress at work"
+          },
+          {
+            "name": "Gratitude practice"
+          },
+          {
+            "name": "Digital detox"
+          }
+        ]
+      },
+      {
+        "name": "Beauty, Fashion & Personal Style",
+        "children": [
+          {
+            "name": "Skincare"
+          },
+          {
+            "name": "Makeup"
+          },
+          {
+            "name": "Hairstyling"
+          },
+          {
+            "name": "Barbering"
+          },
+          {
+            "name": "Mehndi"
+          },
+          {
+            "name": "Fashion advice"
+          },
+          {
+            "name": "Personal styling"
+          },
+          {
+            "name": "Wardrobe planning"
+          },
+          {
+            "name": "Grooming"
+          },
+          {
+            "name": "Jewelry"
+          },
+          {
+            "name": "Shopping on a budget"
+          },
+          {
+            "name": "Modest fashion"
+          },
+          {
+            "name": "Image consulting"
+          },
+          {
+            "name": "Nail art"
+          },
+          {
+            "name": "Lash extensions"
+          },
+          {
+            "name": "Wedding makeup"
+          },
+          {
+            "name": "Hair coloring"
+          },
+          {
+            "name": "Hair braiding"
+          },
+          {
+            "name": "Thrifting"
+          },
+          {
+            "name": "Capsule wardrobe"
+          },
+          {
+            "name": "Men's grooming"
+          },
+          {
+            "name": "Fragrance guidance"
+          },
+          {
+            "name": "Bridal styling"
+          },
+          {
+            "name": "Skincare routines"
+          },
+          {
+            "name": "Jewelry styling"
+          }
+        ]
+      },
+      {
+        "name": "Hobbies & Collecting",
+        "children": [
+          {
+            "name": "Specialized hobbies"
+          },
+          {
+            "name": "Collecting (coins, stamps, trading cards)"
+          },
+          {
+            "name": "Model building"
+          },
+          {
+            "name": "Birdwatching"
+          },
+          {
+            "name": "Fishing"
+          },
+          {
+            "name": "Puzzles"
+          },
+          {
+            "name": "Magic tricks"
+          },
+          {
+            "name": "Origami"
+          },
+          {
+            "name": "Scrapbooking"
+          },
+          {
+            "name": "Knitting and crochet"
+          },
+          {
+            "name": "Woodturning"
+          },
+          {
+            "name": "Pottery"
+          },
+          {
+            "name": "Model trains"
+          },
+          {
+            "name": "Vinyl records"
+          },
+          {
+            "name": "Bird photography"
+          },
+          {
+            "name": "Soap making"
+          },
+          {
+            "name": "Candle making"
+          },
+          {
+            "name": "Miniatures and Gundam kits"
+          },
+          {
+            "name": "Antiques and thrift finds"
+          }
+        ]
+      },
+      {
+        "name": "Senior, Elder & Disability Support Guidance",
+        "children": [
+          {
+            "name": "Elder care guidance"
+          },
+          {
+            "name": "Caregiver tips"
+          },
+          {
+            "name": "Accessibility tools"
+          },
+          {
+            "name": "Assistive technology"
+          },
+          {
+            "name": "Senior technology help"
+          },
+          {
+            "name": "Support navigation for families (general guidance only)"
+          },
+          {
+            "name": "Fall prevention"
+          },
+          {
+            "name": "Senior fitness"
+          },
+          {
+            "name": "Medicare navigation"
+          },
+          {
+            "name": "Hearing and vision aids"
+          },
+          {
+            "name": "Smartphones for seniors"
+          },
+          {
+            "name": "Elder financial scams"
+          },
+          {
+            "name": "Accessible travel"
+          },
+          {
+            "name": "Mobility equipment"
+          },
+          {
+            "name": "Memory care activities"
+          },
+          {
+            "name": "Independent living"
+          },
+          {
+            "name": "Respite care"
+          },
+          {
+            "name": "Advance care planning"
+          }
+        ]
+      },
+      {
+        "name": "Photography & Videography",
+        "children": [
+          {
+            "name": "Portrait photography"
+          },
+          {
+            "name": "Wedding photography"
+          },
+          {
+            "name": "Smartphone photography"
+          },
+          {
+            "name": "Lightroom editing"
+          },
+          {
+            "name": "Drone filming"
+          },
+          {
+            "name": "Product photography"
+          },
+          {
+            "name": "Cinematography"
+          },
+          {
+            "name": "Photo restoration"
+          },
+          {
+            "name": "Studio lighting"
+          },
+          {
+            "name": "Wildlife photography"
+          },
+          {
+            "name": "Travel vlogging"
+          },
+          {
+            "name": "Film history"
+          }
+        ]
+      },
+      {
+        "name": "Music Production & Audio",
+        "children": [
+          {
+            "name": "Beat making"
+          },
+          {
+            "name": "FL Studio"
+          },
+          {
+            "name": "Ableton Live"
+          },
+          {
+            "name": "Mixing and mastering"
+          },
+          {
+            "name": "Home recording"
+          },
+          {
+            "name": "Podcast audio"
+          },
+          {
+            "name": "Sound design"
+          },
+          {
+            "name": "DJing"
+          },
+          {
+            "name": "Vocal recording"
+          },
+          {
+            "name": "Film scoring"
+          },
+          {
+            "name": "Live sound"
+          },
+          {
+            "name": "Audio equipment buying"
+          }
+        ]
+      },
+      {
+        "name": "Healthcare Careers & Training",
+        "children": [
+          {
+            "name": "Nursing school prep"
+          },
+          {
+            "name": "Pharmacy technician"
+          },
+          {
+            "name": "Medical assistant"
+          },
+          {
+            "name": "Medical coding"
+          },
+          {
+            "name": "MCAT prep"
+          },
+          {
+            "name": "Radiology technician"
+          },
+          {
+            "name": "Physical therapy careers"
+          },
+          {
+            "name": "Phlebotomy"
+          },
+          {
+            "name": "Dental assisting"
+          },
+          {
+            "name": "Healthcare administration"
+          },
+          {
+            "name": "Telehealth jobs"
+          },
+          {
+            "name": "USMLE prep"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wealth",
+    "description": "Careers, business, finance, technology, practical trades, education, legal guidance, and professional skills.",
+    "children": [
+      {
+        "name": "Languages & Communication",
+        "children": [
+          {
+            "name": "Foreign languages (English, Spanish, French, Arabic, Urdu, Chinese, German)"
+          },
+          {
+            "name": "Conversation practice"
+          },
+          {
+            "name": "Translation guidance"
+          },
+          {
+            "name": "Pronunciation"
+          },
+          {
+            "name": "Speaking"
+          },
+          {
+            "name": "Public speaking"
+          },
+          {
+            "name": "Accent training"
+          },
+          {
+            "name": "IELTS/TOEFL prep"
+          },
+          {
+            "name": "Sign language"
+          },
+          {
+            "name": "Business communication"
+          },
+          {
+            "name": "Italian"
+          },
+          {
+            "name": "Portuguese"
+          },
+          {
+            "name": "Japanese"
+          },
+          {
+            "name": "Korean"
+          },
+          {
+            "name": "Hindi"
+          },
+          {
+            "name": "Punjabi"
+          },
+          {
+            "name": "Russian"
+          },
+          {
+            "name": "Turkish"
+          },
+          {
+            "name": "English for IELTS and TOEFL"
+          },
+          {
+            "name": "Business English"
+          },
+          {
+            "name": "Active listening"
+          }
+        ]
+      },
+      {
+        "name": "Home Repair & Practical Skills",
+        "children": [
+          {
+            "name": "Carpentry"
+          },
+          {
+            "name": "Plumbing"
+          },
+          {
+            "name": "Electrical basics"
+          },
+          {
+            "name": "Automobile basics"
+          },
+          {
+            "name": "Car maintenance"
+          },
+          {
+            "name": "DIY repairs"
+          },
+          {
+            "name": "Home maintenance"
+          },
+          {
+            "name": "Gardening"
+          },
+          {
+            "name": "Painting walls"
+          },
+          {
+            "name": "Tiling"
+          },
+          {
+            "name": "Appliance repair"
+          },
+          {
+            "name": "Furniture assembly"
+          },
+          {
+            "name": "Welding"
+          },
+          {
+            "name": "Interior decorating"
+          },
+          {
+            "name": "Home organizing"
+          },
+          {
+            "name": "Drywall repair"
+          },
+          {
+            "name": "Roof maintenance basics"
+          },
+          {
+            "name": "Fixing leaky faucets"
+          },
+          {
+            "name": "Smart home setup"
+          },
+          {
+            "name": "Window and door installation"
+          },
+          {
+            "name": "Lawn care"
+          },
+          {
+            "name": "Pressure washing"
+          },
+          {
+            "name": "Decluttering and organizing"
+          },
+          {
+            "name": "Basic sewing repairs"
+          }
+        ]
+      },
+      {
+        "name": "Education, Science & Mathematics",
+        "children": [
+          {
+            "name": "Science"
+          },
+          {
+            "name": "Math"
+          },
+          {
+            "name": "Physics"
+          },
+          {
+            "name": "Chemistry"
+          },
+          {
+            "name": "Biology"
+          },
+          {
+            "name": "Astronomy"
+          },
+          {
+            "name": "Tutoring"
+          },
+          {
+            "name": "Study skills"
+          },
+          {
+            "name": "Research skills"
+          },
+          {
+            "name": "Exam preparation"
+          },
+          {
+            "name": "Homework help"
+          },
+          {
+            "name": "College admissions"
+          },
+          {
+            "name": "Scholarships guidance"
+          },
+          {
+            "name": "Thesis writing"
+          },
+          {
+            "name": "History"
+          },
+          {
+            "name": "Geography"
+          },
+          {
+            "name": "SAT/GRE/MDCAT prep"
+          },
+          {
+            "name": "Homeschooling"
+          },
+          {
+            "name": "SAT and ACT prep"
+          },
+          {
+            "name": "Study techniques"
+          },
+          {
+            "name": "Essay writing for students"
+          },
+          {
+            "name": "Environmental science"
+          },
+          {
+            "name": "World history"
+          },
+          {
+            "name": "Philosophy"
+          },
+          {
+            "name": "Psychology basics"
+          },
+          {
+            "name": "Economics"
+          },
+          {
+            "name": "Research and thesis help"
+          }
+        ]
+      },
+      {
+        "name": "Technology, IT & AI",
+        "children": [
+          {
+            "name": "IT"
+          },
+          {
+            "name": "AI"
+          },
+          {
+            "name": "ChatGPT and prompt skills"
+          },
+          {
+            "name": "Computer skills"
+          },
+          {
+            "name": "Software tools"
+          },
+          {
+            "name": "Coding"
+          },
+          {
+            "name": "Web development"
+          },
+          {
+            "name": "App development"
+          },
+          {
+            "name": "Cybersecurity awareness"
+          },
+          {
+            "name": "Digital troubleshooting"
+          },
+          {
+            "name": "Cloud computing"
+          },
+          {
+            "name": "Data science"
+          },
+          {
+            "name": "Networking"
+          },
+          {
+            "name": "Smartphone help"
+          },
+          {
+            "name": "Excel"
+          },
+          {
+            "name": "No-code tools"
+          },
+          {
+            "name": "Python programming"
+          },
+          {
+            "name": "JavaScript"
+          },
+          {
+            "name": "Cloud computing basics"
+          },
+          {
+            "name": "WordPress"
+          },
+          {
+            "name": "Databases and SQL"
+          },
+          {
+            "name": "Git and GitHub"
+          },
+          {
+            "name": "Raspberry Pi and Arduino"
+          },
+          {
+            "name": "Data backup"
+          },
+          {
+            "name": "Using smartphones"
+          },
+          {
+            "name": "Tech for beginners"
+          },
+          {
+            "name": "Building a PC"
+          }
+        ]
+      },
+      {
+        "name": "Business, Sales & Entrepreneurship",
+        "children": [
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Digital marketing"
+          },
+          {
+            "name": "Networking"
+          },
+          {
+            "name": "How to buy and sell effectively"
+          },
+          {
+            "name": "Starting a business"
+          },
+          {
+            "name": "Customer service"
+          },
+          {
+            "name": "Negotiation"
+          },
+          {
+            "name": "E-commerce"
+          },
+          {
+            "name": "Dropshipping"
+          },
+          {
+            "name": "Amazon/eBay selling"
+          },
+          {
+            "name": "Startups"
+          },
+          {
+            "name": "Branding"
+          },
+          {
+            "name": "Business plans"
+          },
+          {
+            "name": "Freelancing"
+          },
+          {
+            "name": "Import/export"
+          },
+          {
+            "name": "Ecommerce stores"
+          },
+          {
+            "name": "Amazon FBA"
+          },
+          {
+            "name": "Etsy shops"
+          },
+          {
+            "name": "Writing a business plan"
+          },
+          {
+            "name": "Cold calling"
+          },
+          {
+            "name": "B2B sales"
+          },
+          {
+            "name": "Franchising"
+          },
+          {
+            "name": "Bookkeeping basics"
+          },
+          {
+            "name": "Hiring and managing teams"
+          },
+          {
+            "name": "Product pricing"
+          },
+          {
+            "name": "Import and export basics"
+          }
+        ]
+      },
+      {
+        "name": "Finance, Taxes & Investing",
+        "children": [
+          {
+            "name": "Stocks"
+          },
+          {
+            "name": "Interest rates"
+          },
+          {
+            "name": "Taxes"
+          },
+          {
+            "name": "Cryptocurrency"
+          },
+          {
+            "name": "Budgeting"
+          },
+          {
+            "name": "Personal finance"
+          },
+          {
+            "name": "Grants"
+          },
+          {
+            "name": "Funding and loans"
+          },
+          {
+            "name": "Retirement planning"
+          },
+          {
+            "name": "Insurance"
+          },
+          {
+            "name": "Credit scores"
+          },
+          {
+            "name": "Forex"
+          },
+          {
+            "name": "Mutual funds"
+          },
+          {
+            "name": "Saving strategies"
+          },
+          {
+            "name": "Debt management"
+          },
+          {
+            "name": "Bookkeeping"
+          },
+          {
+            "name": "ETFs and index funds"
+          },
+          {
+            "name": "Options trading basics"
+          },
+          {
+            "name": "Forex trading"
+          },
+          {
+            "name": "Bonds"
+          },
+          {
+            "name": "Debt payoff strategies"
+          },
+          {
+            "name": "Credit score improvement"
+          },
+          {
+            "name": "Retirement accounts"
+          },
+          {
+            "name": "Small business taxes"
+          },
+          {
+            "name": "Financial independence"
+          },
+          {
+            "name": "Teaching kids about money"
+          },
+          {
+            "name": "Insurance basics"
+          },
+          {
+            "name": "Dividend investing"
+          }
+        ]
+      },
+      {
+        "name": "Legal & Administrative Guidance",
+        "children": [
+          {
+            "name": "Legal questions"
+          },
+          {
+            "name": "How to apply for things"
+          },
+          {
+            "name": "Forms and applications"
+          },
+          {
+            "name": "Understanding administrative processes"
+          },
+          {
+            "name": "Immigration paperwork guidance"
+          },
+          {
+            "name": "Contracts"
+          },
+          {
+            "name": "Tenant rights"
+          },
+          {
+            "name": "Passport and visa applications"
+          },
+          {
+            "name": "Licenses and permits"
+          },
+          {
+            "name": "Small claims basics"
+          },
+          {
+            "name": "Small claims court"
+          },
+          {
+            "name": "Wills and estates"
+          },
+          {
+            "name": "Business formation (LLC)"
+          },
+          {
+            "name": "Trademark and copyright basics"
+          },
+          {
+            "name": "Divorce and custody process"
+          },
+          {
+            "name": "Landlord and tenant disputes"
+          },
+          {
+            "name": "Traffic tickets"
+          },
+          {
+            "name": "Employment rights"
+          },
+          {
+            "name": "Immigration process overview"
+          },
+          {
+            "name": "Contract review basics"
+          },
+          {
+            "name": "Power of attorney"
+          },
+          {
+            "name": "Notary and document filing"
+          }
+        ]
+      },
+      {
+        "name": "Government, Politics & Current Affairs",
+        "children": [
+          {
+            "name": "Politics"
+          },
+          {
+            "name": "Public affairs"
+          },
+          {
+            "name": "News and media"
+          },
+          {
+            "name": "Understanding civic processes"
+          },
+          {
+            "name": "Elections"
+          },
+          {
+            "name": "Public policy"
+          },
+          {
+            "name": "Political history"
+          },
+          {
+            "name": "Media literacy"
+          },
+          {
+            "name": "International relations"
+          },
+          {
+            "name": "How government services work"
+          },
+          {
+            "name": "Debate skills"
+          },
+          {
+            "name": "How a bill becomes law"
+          },
+          {
+            "name": "Voting and registration"
+          },
+          {
+            "name": "Local government"
+          },
+          {
+            "name": "Campaign basics"
+          },
+          {
+            "name": "Political science"
+          },
+          {
+            "name": "Public policy writing"
+          },
+          {
+            "name": "Understanding the constitution"
+          },
+          {
+            "name": "Lobbying basics"
+          },
+          {
+            "name": "Reading election results"
+          },
+          {
+            "name": "Activism and advocacy"
+          }
+        ]
+      },
+      {
+        "name": "Real Estate & Property",
+        "children": [
+          {
+            "name": "Real estate"
+          },
+          {
+            "name": "Renting"
+          },
+          {
+            "name": "Buying or selling property"
+          },
+          {
+            "name": "Property management"
+          },
+          {
+            "name": "Home-buying basics"
+          },
+          {
+            "name": "Mortgages"
+          },
+          {
+            "name": "Property investment"
+          },
+          {
+            "name": "House flipping"
+          },
+          {
+            "name": "Real estate agent training"
+          },
+          {
+            "name": "Rental income"
+          },
+          {
+            "name": "Land purchase"
+          },
+          {
+            "name": "Property valuation"
+          },
+          {
+            "name": "Real estate investing"
+          },
+          {
+            "name": "Real estate licensing"
+          },
+          {
+            "name": "Commercial property"
+          },
+          {
+            "name": "Home staging"
+          },
+          {
+            "name": "Rental property management"
+          },
+          {
+            "name": "Short-term rentals"
+          },
+          {
+            "name": "Reading a lease"
+          },
+          {
+            "name": "Closing costs"
+          },
+          {
+            "name": "Land buying"
+          },
+          {
+            "name": "Home inspections"
+          }
+        ]
+      },
+      {
+        "name": "Writing, Media & Content Creation",
+        "children": [
+          {
+            "name": "Writing"
+          },
+          {
+            "name": "Editing"
+          },
+          {
+            "name": "Blogging"
+          },
+          {
+            "name": "Social media content"
+          },
+          {
+            "name": "Video creation"
+          },
+          {
+            "name": "Media skills"
+          },
+          {
+            "name": "Copywriting"
+          },
+          {
+            "name": "Book writing and publishing"
+          },
+          {
+            "name": "Podcasting"
+          },
+          {
+            "name": "YouTube"
+          },
+          {
+            "name": "Graphic design"
+          },
+          {
+            "name": "Video editing"
+          },
+          {
+            "name": "Journalism"
+          },
+          {
+            "name": "News and media production"
+          },
+          {
+            "name": "Scriptwriting"
+          },
+          {
+            "name": "Novel writing"
+          },
+          {
+            "name": "Screenwriting"
+          },
+          {
+            "name": "Poetry"
+          },
+          {
+            "name": "Ghostwriting"
+          },
+          {
+            "name": "Technical writing"
+          },
+          {
+            "name": "Press release writing"
+          },
+          {
+            "name": "Memoir writing"
+          },
+          {
+            "name": "Journalism skills"
+          },
+          {
+            "name": "YouTube scripting"
+          },
+          {
+            "name": "Podcast hosting"
+          },
+          {
+            "name": "Newsletter writing"
+          }
+        ]
+      },
+      {
+        "name": "Virtual Assistance & Office Skills",
+        "children": [
+          {
+            "name": "VAs (virtual assistants)"
+          },
+          {
+            "name": "Scheduling"
+          },
+          {
+            "name": "Organization"
+          },
+          {
+            "name": "Data entry"
+          },
+          {
+            "name": "Productivity tools"
+          },
+          {
+            "name": "Administrative support"
+          },
+          {
+            "name": "Email management"
+          },
+          {
+            "name": "Microsoft Office"
+          },
+          {
+            "name": "Google Workspace"
+          },
+          {
+            "name": "Calendar management"
+          },
+          {
+            "name": "Transcription"
+          },
+          {
+            "name": "Remote work skills"
+          },
+          {
+            "name": "Microsoft Excel"
+          },
+          {
+            "name": "Notion and Trello"
+          },
+          {
+            "name": "Bookkeeping for VAs"
+          },
+          {
+            "name": "Customer inbox handling"
+          },
+          {
+            "name": "Travel booking for clients"
+          },
+          {
+            "name": "Research assistance"
+          },
+          {
+            "name": "Typing speed"
+          },
+          {
+            "name": "Zoom and meeting tools"
+          },
+          {
+            "name": "Setting up a VA business"
+          }
+        ]
+      },
+      {
+        "name": "General Advice & Other Skills",
+        "children": [
+          {
+            "name": "How to do things"
+          },
+          {
+            "name": "How to learn new skills"
+          },
+          {
+            "name": "Specialized hobbies"
+          },
+          {
+            "name": "Professional experience"
+          },
+          {
+            "name": "Other lawful topics"
+          },
+          {
+            "name": "Anything you can teach without breaking any laws"
+          },
+          {
+            "name": "Life coaching"
+          },
+          {
+            "name": "Mentoring"
+          },
+          {
+            "name": "Moving to a new city"
+          },
+          {
+            "name": "Starting over"
+          },
+          {
+            "name": "Retirement lifestyle"
+          },
+          {
+            "name": "Immigrating abroad"
+          },
+          {
+            "name": "Cleaning tips"
+          },
+          {
+            "name": "Shopping smart"
+          },
+          {
+            "name": "Negotiating everyday deals"
+          },
+          {
+            "name": "Remote living across time zones"
+          },
+          {
+            "name": "Planning big life changes"
+          },
+          {
+            "name": "Giving and receiving feedback"
+          }
+        ]
+      },
+      {
+        "name": "Social Media & Online Presence",
+        "children": [
+          {
+            "name": "Social media management"
+          },
+          {
+            "name": "Instagram growth"
+          },
+          {
+            "name": "TikTok"
+          },
+          {
+            "name": "Facebook"
+          },
+          {
+            "name": "YouTube channels"
+          },
+          {
+            "name": "LinkedIn profiles"
+          },
+          {
+            "name": "Personal branding"
+          },
+          {
+            "name": "Influencer tips"
+          },
+          {
+            "name": "Online reputation"
+          },
+          {
+            "name": "Content calendars"
+          },
+          {
+            "name": "Social media ads"
+          },
+          {
+            "name": "Community management"
+          },
+          {
+            "name": "Instagram Reels"
+          },
+          {
+            "name": "TikTok growth"
+          },
+          {
+            "name": "YouTube growth"
+          },
+          {
+            "name": "Pinterest marketing"
+          },
+          {
+            "name": "X and Threads"
+          },
+          {
+            "name": "Influencer marketing"
+          },
+          {
+            "name": "Facebook groups"
+          },
+          {
+            "name": "Personal website building"
+          }
+        ]
+      },
+      {
+        "name": "Automobiles & Transportation",
+        "children": [
+          {
+            "name": "Automobiles"
+          },
+          {
+            "name": "Buying and selling cars"
+          },
+          {
+            "name": "Car maintenance"
+          },
+          {
+            "name": "Driving lessons"
+          },
+          {
+            "name": "Motorcycles"
+          },
+          {
+            "name": "Car modifications"
+          },
+          {
+            "name": "Electric vehicles"
+          },
+          {
+            "name": "Fuel-saving tips"
+          },
+          {
+            "name": "License test preparation"
+          },
+          {
+            "name": "Truck driving"
+          },
+          {
+            "name": "Auto repair basics"
+          },
+          {
+            "name": "Public transport navigation"
+          },
+          {
+            "name": "Tire changing"
+          },
+          {
+            "name": "Oil changes"
+          },
+          {
+            "name": "Car buying for beginners"
+          },
+          {
+            "name": "Driving test prep"
+          },
+          {
+            "name": "Defensive driving"
+          },
+          {
+            "name": "Truck driving and CDL"
+          },
+          {
+            "name": "Electric car charging"
+          },
+          {
+            "name": "Car detailing"
+          },
+          {
+            "name": "Used car inspection"
+          },
+          {
+            "name": "Bicycle repair"
+          },
+          {
+            "name": "Ride share driving"
+          }
+        ]
+      },
+      {
+        "name": "Cryptocurrency & Digital Assets",
+        "children": [
+          {
+            "name": "Cryptocurrency"
+          },
+          {
+            "name": "Bitcoin"
+          },
+          {
+            "name": "Ethereum"
+          },
+          {
+            "name": "Blockchain basics"
+          },
+          {
+            "name": "NFTs"
+          },
+          {
+            "name": "Crypto trading"
+          },
+          {
+            "name": "Wallet security"
+          },
+          {
+            "name": "DeFi"
+          },
+          {
+            "name": "Staking"
+          },
+          {
+            "name": "Crypto taxes"
+          },
+          {
+            "name": "Spotting crypto scams"
+          },
+          {
+            "name": "Crypto exchanges"
+          },
+          {
+            "name": "DeFi basics"
+          },
+          {
+            "name": "Solana"
+          },
+          {
+            "name": "Crypto scams awareness"
+          },
+          {
+            "name": "Cold wallets"
+          },
+          {
+            "name": "Mining basics"
+          },
+          {
+            "name": "Stablecoins"
+          },
+          {
+            "name": "Technical analysis for crypto"
+          },
+          {
+            "name": "Blockchain careers"
+          },
+          {
+            "name": "Web3 basics"
+          }
+        ]
+      },
+      {
+        "name": "Gambling, Poker & Betting Strategy",
+        "children": [
+          {
+            "name": "Poker (Texas Hold'em, tournaments)"
+          },
+          {
+            "name": "Blackjack strategy"
+          },
+          {
+            "name": "Sports betting basics"
+          },
+          {
+            "name": "Odds and probability"
+          },
+          {
+            "name": "Bankroll management"
+          },
+          {
+            "name": "Casino games"
+          },
+          {
+            "name": "Responsible gambling (where legal)"
+          },
+          {
+            "name": "Roulette"
+          },
+          {
+            "name": "Baccarat"
+          },
+          {
+            "name": "Slot machine facts"
+          },
+          {
+            "name": "Horse racing"
+          },
+          {
+            "name": "Poker bluffing"
+          },
+          {
+            "name": "Poker math"
+          },
+          {
+            "name": "Daily fantasy"
+          },
+          {
+            "name": "Lottery odds"
+          },
+          {
+            "name": "Bankroll discipline"
+          },
+          {
+            "name": "Problem gambling awareness"
+          },
+          {
+            "name": "Craps"
+          },
+          {
+            "name": "Sports betting odds"
+          }
+        ]
+      },
+      {
+        "name": "Grants, Funding & Loans",
+        "children": [
+          {
+            "name": "Grant writing"
+          },
+          {
+            "name": "Finding grants"
+          },
+          {
+            "name": "Funding applications"
+          },
+          {
+            "name": "Small business loans"
+          },
+          {
+            "name": "Student loans"
+          },
+          {
+            "name": "Crowdfunding"
+          },
+          {
+            "name": "Pitching to investors"
+          },
+          {
+            "name": "Microfinance"
+          },
+          {
+            "name": "Loan applications"
+          },
+          {
+            "name": "Interest rates explained"
+          },
+          {
+            "name": "Nonprofit funding"
+          },
+          {
+            "name": "SBA loans"
+          },
+          {
+            "name": "Microloans"
+          },
+          {
+            "name": "Research grants"
+          },
+          {
+            "name": "Arts grants"
+          },
+          {
+            "name": "Scholarship essays"
+          },
+          {
+            "name": "Venture capital"
+          },
+          {
+            "name": "Angel investors"
+          },
+          {
+            "name": "Grants for nonprofits"
+          },
+          {
+            "name": "Government contracts"
+          },
+          {
+            "name": "Crowdfunding campaigns"
+          },
+          {
+            "name": "Business credit"
+          },
+          {
+            "name": "Loan application prep"
+          }
+        ]
+      },
+      {
+        "name": "News, Media & Information Literacy",
+        "children": [
+          {
+            "name": "News analysis"
+          },
+          {
+            "name": "Journalism"
+          },
+          {
+            "name": "Fact-checking"
+          },
+          {
+            "name": "Current events discussion"
+          },
+          {
+            "name": "Podcast production"
+          },
+          {
+            "name": "Documentary making"
+          },
+          {
+            "name": "Understanding media bias"
+          },
+          {
+            "name": "Research techniques"
+          },
+          {
+            "name": "Spotting misinformation"
+          },
+          {
+            "name": "Media ethics"
+          },
+          {
+            "name": "Reading financial news"
+          },
+          {
+            "name": "Investigative journalism"
+          },
+          {
+            "name": "Source checking"
+          },
+          {
+            "name": "Broadcast journalism"
+          },
+          {
+            "name": "Understanding polls"
+          },
+          {
+            "name": "Interviewing skills"
+          },
+          {
+            "name": "International news"
+          },
+          {
+            "name": "Photojournalism"
+          },
+          {
+            "name": "Data journalism"
+          },
+          {
+            "name": "Teaching media literacy"
+          }
+        ]
+      },
+      {
+        "name": "AI, Automation & Future Skills",
+        "children": [
+          {
+            "name": "AI tools"
+          },
+          {
+            "name": "ChatGPT and prompt engineering"
+          },
+          {
+            "name": "Machine learning basics"
+          },
+          {
+            "name": "Automation"
+          },
+          {
+            "name": "AI for business"
+          },
+          {
+            "name": "AI for students"
+          },
+          {
+            "name": "AI art and video tools"
+          },
+          {
+            "name": "Chatbots"
+          },
+          {
+            "name": "Robotics basics"
+          },
+          {
+            "name": "No-code AI apps"
+          },
+          {
+            "name": "Prompt engineering"
+          },
+          {
+            "name": "AI image generation"
+          },
+          {
+            "name": "AI for small business"
+          },
+          {
+            "name": "No-code automation"
+          },
+          {
+            "name": "Zapier workflows"
+          },
+          {
+            "name": "AI writing tools"
+          },
+          {
+            "name": "AI ethics"
+          },
+          {
+            "name": "Using AI for study"
+          },
+          {
+            "name": "AI customer support"
+          },
+          {
+            "name": "Voice assistants"
+          },
+          {
+            "name": "Learning machine learning"
+          }
+        ]
+      },
+      {
+        "name": "IT Support, Cybersecurity & Networking",
+        "children": [
+          {
+            "name": "IT help desk"
+          },
+          {
+            "name": "Windows and Mac troubleshooting"
+          },
+          {
+            "name": "Computer networking"
+          },
+          {
+            "name": "Linux"
+          },
+          {
+            "name": "Cybersecurity"
+          },
+          {
+            "name": "Password and privacy safety"
+          },
+          {
+            "name": "Wi-Fi setup"
+          },
+          {
+            "name": "Data recovery"
+          },
+          {
+            "name": "System administration"
+          },
+          {
+            "name": "Cloud and servers"
+          },
+          {
+            "name": "Phishing awareness"
+          },
+          {
+            "name": "VPN setup"
+          },
+          {
+            "name": "Antivirus basics"
+          },
+          {
+            "name": "Router configuration"
+          },
+          {
+            "name": "Network+ certification"
+          },
+          {
+            "name": "CompTIA A+"
+          },
+          {
+            "name": "Ethical hacking basics"
+          },
+          {
+            "name": "Active Directory"
+          },
+          {
+            "name": "Printer troubleshooting"
+          },
+          {
+            "name": "Cloud security"
+          },
+          {
+            "name": "Remote desktop support"
+          }
+        ]
+      },
+      {
+        "name": "Remote Work, Freelancing & Online Jobs",
+        "children": [
+          {
+            "name": "Freelancing on Upwork and Fiverr"
+          },
+          {
+            "name": "Client management"
+          },
+          {
+            "name": "Remote team skills"
+          },
+          {
+            "name": "Proposal writing"
+          },
+          {
+            "name": "Pricing services"
+          },
+          {
+            "name": "Project management"
+          },
+          {
+            "name": "Customer support"
+          },
+          {
+            "name": "Time tracking"
+          },
+          {
+            "name": "Work-from-home setup"
+          },
+          {
+            "name": "Upwork profiles"
+          },
+          {
+            "name": "Fiverr gigs"
+          },
+          {
+            "name": "Remote job search"
+          },
+          {
+            "name": "Home office setup"
+          },
+          {
+            "name": "Online tutoring"
+          },
+          {
+            "name": "Virtual teams"
+          },
+          {
+            "name": "Digital nomad living"
+          },
+          {
+            "name": "Freelance invoicing"
+          },
+          {
+            "name": "Client proposals"
+          },
+          {
+            "name": "Online surveys and microtasks"
+          },
+          {
+            "name": "Transcription jobs"
+          }
+        ]
+      },
+      {
+        "name": "Skilled Trades & Vocational Training",
+        "children": [
+          {
+            "name": "Electrician skills"
+          },
+          {
+            "name": "Welding"
+          },
+          {
+            "name": "HVAC"
+          },
+          {
+            "name": "Masonry"
+          },
+          {
+            "name": "Tailoring and sewing"
+          },
+          {
+            "name": "Auto mechanics"
+          },
+          {
+            "name": "Tiling and flooring"
+          },
+          {
+            "name": "Plumbing"
+          },
+          {
+            "name": "Carpentry"
+          },
+          {
+            "name": "Machine operation"
+          },
+          {
+            "name": "Apprenticeships"
+          },
+          {
+            "name": "Auto body repair"
+          },
+          {
+            "name": "Roofing"
+          },
+          {
+            "name": "Landscaping"
+          },
+          {
+            "name": "Heavy equipment"
+          },
+          {
+            "name": "Painting and decorating"
+          },
+          {
+            "name": "Locksmithing"
+          },
+          {
+            "name": "Pipefitting"
+          },
+          {
+            "name": "Cabinet making"
+          },
+          {
+            "name": "Sheet metal"
+          },
+          {
+            "name": "Solar installation"
+          },
+          {
+            "name": "Appliance technician"
+          },
+          {
+            "name": "Pest control"
+          }
+        ]
+      },
+      {
+        "name": "Careers, Jobs & Study Abroad",
+        "children": [
+          {
+            "name": "How to apply for universities"
+          },
+          {
+            "name": "Scholarships"
+          },
+          {
+            "name": "Visas"
+          },
+          {
+            "name": "Resumes and CVs"
+          },
+          {
+            "name": "Cover letters"
+          },
+          {
+            "name": "Job interviews"
+          },
+          {
+            "name": "LinkedIn"
+          },
+          {
+            "name": "Career change"
+          },
+          {
+            "name": "Internships"
+          },
+          {
+            "name": "SOPs and personal statements"
+          },
+          {
+            "name": "Government job exams"
+          },
+          {
+            "name": "Interview practice"
+          },
+          {
+            "name": "Salary negotiation"
+          },
+          {
+            "name": "LinkedIn job search"
+          },
+          {
+            "name": "Internship hunting"
+          },
+          {
+            "name": "Studying in the UK"
+          },
+          {
+            "name": "Studying in Canada"
+          },
+          {
+            "name": "Studying in Australia"
+          },
+          {
+            "name": "Studying in the USA"
+          },
+          {
+            "name": "Personal statements"
+          },
+          {
+            "name": "Work visas"
+          },
+          {
+            "name": "Career planning for graduates"
+          }
+        ]
+      },
+      {
+        "name": "Agriculture & Farming",
+        "children": [
+          {
+            "name": "Farming"
+          },
+          {
+            "name": "Crop planning"
+          },
+          {
+            "name": "Home gardening"
+          },
+          {
+            "name": "Hydroponics"
+          },
+          {
+            "name": "Beekeeping"
+          },
+          {
+            "name": "Poultry and livestock"
+          },
+          {
+            "name": "Sustainable agriculture"
+          },
+          {
+            "name": "Soil and irrigation basics"
+          },
+          {
+            "name": "Weather for farmers"
+          },
+          {
+            "name": "Organic farming"
+          },
+          {
+            "name": "Greenhouse growing"
+          },
+          {
+            "name": "Dairy farming"
+          },
+          {
+            "name": "Fish farming"
+          },
+          {
+            "name": "Orchard care"
+          },
+          {
+            "name": "Soil health"
+          },
+          {
+            "name": "Irrigation"
+          },
+          {
+            "name": "Farm equipment"
+          },
+          {
+            "name": "Selling at farmers markets"
+          },
+          {
+            "name": "Mushroom growing"
+          },
+          {
+            "name": "Agribusiness"
+          },
+          {
+            "name": "Urban farming"
+          }
+        ]
+      },
+      {
+        "name": "Math, Statistics & Data Analysis",
+        "children": [
+          {
+            "name": "Math from basics to calculus"
+          },
+          {
+            "name": "Algebra"
+          },
+          {
+            "name": "Geometry"
+          },
+          {
+            "name": "Statistics"
+          },
+          {
+            "name": "Probability"
+          },
+          {
+            "name": "Data analysis"
+          },
+          {
+            "name": "Excel and Google Sheets"
+          },
+          {
+            "name": "Python for data"
+          },
+          {
+            "name": "Competitive math"
+          },
+          {
+            "name": "Calculus"
+          },
+          {
+            "name": "Linear algebra"
+          },
+          {
+            "name": "Trigonometry"
+          },
+          {
+            "name": "Word problems"
+          },
+          {
+            "name": "Power BI"
+          },
+          {
+            "name": "Tableau"
+          },
+          {
+            "name": "R programming"
+          },
+          {
+            "name": "SQL for analysts"
+          },
+          {
+            "name": "Data visualization"
+          },
+          {
+            "name": "Financial math"
+          },
+          {
+            "name": "Mental math"
+          },
+          {
+            "name": "Math olympiad prep"
+          }
+        ]
+      },
+      {
+        "name": "Astronomy & Space",
+        "children": [
+          {
+            "name": "Astronomy"
+          },
+          {
+            "name": "Stargazing"
+          },
+          {
+            "name": "Telescopes"
+          },
+          {
+            "name": "Space exploration"
+          },
+          {
+            "name": "Planets and stars"
+          },
+          {
+            "name": "Astrophotography"
+          },
+          {
+            "name": "Physics of space"
+          },
+          {
+            "name": "Science experiments for kids"
+          },
+          {
+            "name": "Moon phases"
+          },
+          {
+            "name": "Constellations"
+          },
+          {
+            "name": "Eclipse viewing"
+          },
+          {
+            "name": "Black holes"
+          },
+          {
+            "name": "Mars exploration"
+          },
+          {
+            "name": "Amateur radio astronomy"
+          },
+          {
+            "name": "Space history"
+          },
+          {
+            "name": "Cosmology"
+          },
+          {
+            "name": "Meteor showers"
+          },
+          {
+            "name": "Telescope buying"
+          },
+          {
+            "name": "Satellites"
+          },
+          {
+            "name": "Careers in space"
+          }
+        ]
+      },
+      {
+        "name": "Customer Service & Call Center Skills",
+        "children": [
+          {
+            "name": "Customer support"
+          },
+          {
+            "name": "Call center training"
+          },
+          {
+            "name": "Handling complaints"
+          },
+          {
+            "name": "Live chat support"
+          },
+          {
+            "name": "CRM tools"
+          },
+          {
+            "name": "Sales support scripts"
+          },
+          {
+            "name": "Phone etiquette"
+          },
+          {
+            "name": "Helpdesk management"
+          },
+          {
+            "name": "De-escalation"
+          },
+          {
+            "name": "Chat support skills"
+          },
+          {
+            "name": "Email support"
+          },
+          {
+            "name": "Quality assurance in call centers"
+          },
+          {
+            "name": "Team leadership"
+          },
+          {
+            "name": "Customer retention"
+          },
+          {
+            "name": "Sales support calls"
+          },
+          {
+            "name": "Multilingual support"
+          },
+          {
+            "name": "Handling refunds"
+          },
+          {
+            "name": "Zendesk"
+          },
+          {
+            "name": "Stress management for agents"
+          }
+        ]
+      },
+      {
+        "name": "Design, UX & Creative Tech",
+        "children": [
+          {
+            "name": "Graphic design"
+          },
+          {
+            "name": "UI/UX design"
+          },
+          {
+            "name": "Canva"
+          },
+          {
+            "name": "Photoshop"
+          },
+          {
+            "name": "Figma"
+          },
+          {
+            "name": "Logo design"
+          },
+          {
+            "name": "3D modeling"
+          },
+          {
+            "name": "Animation"
+          },
+          {
+            "name": "Product design"
+          },
+          {
+            "name": "Interior design"
+          },
+          {
+            "name": "Illustrator"
+          },
+          {
+            "name": "Blender"
+          },
+          {
+            "name": "After Effects"
+          },
+          {
+            "name": "Motion graphics"
+          },
+          {
+            "name": "Branding"
+          },
+          {
+            "name": "Packaging design"
+          },
+          {
+            "name": "Fashion design"
+          },
+          {
+            "name": "Web design"
+          },
+          {
+            "name": "Typography"
+          },
+          {
+            "name": "Game art"
+          }
+        ]
+      },
+      {
+        "name": "Anything Else (Not Listed)",
+        "children": [
+          {
+            "name": "Anything you can teach without breaking any laws - we will find you clients!"
+          },
+          {
+            "name": "How to do things"
+          },
+          {
+            "name": "How to apply for things"
+          },
+          {
+            "name": "Niche skills"
+          },
+          {
+            "name": "Unusual hobbies"
+          },
+          {
+            "name": "Professional experience"
+          },
+          {
+            "name": "One-on-one mentoring"
+          },
+          {
+            "name": "Magic and illusions"
+          },
+          {
+            "name": "Mentoring for teens"
+          },
+          {
+            "name": "Genealogy"
+          },
+          {
+            "name": "Escape room design"
+          },
+          {
+            "name": "Wilderness first aid"
+          },
+          {
+            "name": "Voice acting"
+          },
+          {
+            "name": "Storytelling"
+          },
+          {
+            "name": "Trivia and quiz hosting"
+          },
+          {
+            "name": "Notary work"
+          },
+          {
+            "name": "Etiquette"
+          },
+          {
+            "name": "Public records research"
+          },
+          {
+            "name": "Talent show coaching"
+          }
+        ]
+      },
+      {
+        "name": "Insurance & Risk",
+        "children": [
+          {
+            "name": "Health insurance"
+          },
+          {
+            "name": "Auto insurance"
+          },
+          {
+            "name": "Home insurance"
+          },
+          {
+            "name": "Life insurance"
+          },
+          {
+            "name": "Business insurance"
+          },
+          {
+            "name": "Claims process"
+          },
+          {
+            "name": "Becoming an insurance agent"
+          },
+          {
+            "name": "Travel insurance"
+          },
+          {
+            "name": "Risk management"
+          },
+          {
+            "name": "Disability insurance"
+          },
+          {
+            "name": "Flood insurance"
+          },
+          {
+            "name": "Comparing quotes"
+          }
+        ]
+      },
+      {
+        "name": "Logistics, Shipping & Supply Chain",
+        "children": [
+          {
+            "name": "Freight brokering"
+          },
+          {
+            "name": "Warehousing"
+          },
+          {
+            "name": "Last-mile delivery"
+          },
+          {
+            "name": "Customs clearance"
+          },
+          {
+            "name": "Inventory management"
+          },
+          {
+            "name": "Shipping for small business"
+          },
+          {
+            "name": "Trucking dispatch"
+          },
+          {
+            "name": "Procurement"
+          },
+          {
+            "name": "Supply chain analytics"
+          },
+          {
+            "name": "Import documentation"
+          },
+          {
+            "name": "Fleet management"
+          },
+          {
+            "name": "Packaging for shipping"
+          }
+        ]
+      },
+      {
+        "name": "Teaching & Tutoring Skills",
+        "children": [
+          {
+            "name": "Lesson planning"
+          },
+          {
+            "name": "Online teaching"
+          },
+          {
+            "name": "Classroom management"
+          },
+          {
+            "name": "ESL teaching"
+          },
+          {
+            "name": "Test prep tutoring"
+          },
+          {
+            "name": "Curriculum design"
+          },
+          {
+            "name": "Special education"
+          },
+          {
+            "name": "Montessori"
+          },
+          {
+            "name": "Coaching teachers"
+          },
+          {
+            "name": "Adult education"
+          },
+          {
+            "name": "Early childhood education"
+          },
+          {
+            "name": "Educational games"
+          }
+        ]
+      }
+    ]
+  }
+]

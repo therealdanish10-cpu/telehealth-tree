@@ -1,0 +1,12 @@
+{
+  "name": "telehealth-today-knowledge-tree",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive Knowledge Tree for TeleHealth Today",
+  "scripts": {
+    "build:tree": "node scripts/build-tree.js"
+  },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

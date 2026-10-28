@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Knowledge Tree — TeleHealth Today</title>
+  <meta name="description" content="Explore thousands of topics you can learn, teach, or book an expert on across Health and Wealth with TeleHealth Today." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Top Brand Bar -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="https://telehealthtoday.net/" target="_blank" rel="noopener noreferrer" class="brand-link" aria-label="TeleHealth Today Home">
+        <span class="brand-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2v20M7 7h10M9 12h6" />
+            <circle cx="12" cy="12" r="10" />
+          </svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-name">TeleHealth Today</span>
+          <span class="brand-tag">Knowledge Directory</span>
+        </span>
+      </a>
+      <a href="https://telehealthtoday.net/" target="_blank" rel="noopener noreferrer" class="header-cta">
+        <span>Visit TeleHealthToday.net</span>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M7 17L17 7M7 7h10v10" />
+        </svg>
+      </a>
+    </div>
+  </header>
+
+  <main class="main-content container">
+    <!-- Hero Intro -->
+    <section class="intro-section" aria-labelledby="page-title">
+      <div class="intro-badge">Interactive Knowledge Tree</div>
+      <h1 id="page-title" class="intro-title">What Can You Learn, Share, or Teach Today?</h1>
+      <p class="intro-subtitle">Explore thousands of topics you can learn, teach, or book an expert on.</p>
+
+      <!-- Live Counters calculated from data/tree.json -->
+      <div class="stats-pill-group" id="stats-counter" aria-live="polite">
+        <div class="stat-pill">
+          <span class="stat-dot stat-dot-roots" aria-hidden="true"></span>
+          <span><strong id="count-roots">2</strong> Core Pillars</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-dot stat-dot-categories" aria-hidden="true"></span>
+          <span><strong id="count-categories">—</strong> Categories</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-dot stat-dot-topics" aria-hidden="true"></span>
+          <span><strong id="count-topics">—</strong> Topics</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls: Search Bar + Expand/Collapse All -->
+    <section class="controls-section" aria-label="Tree controls and search">
+      <div class="controls-bar">
+        <div class="search-wrapper">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8" />
+            <line x1="21" y1="21" x2="16.65" y2="16.65" />
+          </svg>
+          <input
+            type="search"
+            id="tree-search"
+            class="search-input"
+            placeholder="Search categories or topics (e.g., Nutrition, Python, Guitar, Taxes)..."
+            aria-label="Search categories and topics"
+            autocomplete="off"
+          />
+          <button
+            type="button"
+            id="search-clear"
+            class="search-clear-btn"
+            aria-label="Clear search"
+            hidden
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="18" y1="6" x2="6" y2="18" />
+              <line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          </button>
+        </div>
+
+        <div class="action-buttons">
+          <button type="button" id="btn-expand-all" class="btn-secondary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="15 3 21 3 21 9" />
+              <polyline points="9 21 3 21 3 15" />
+              <line x1="21" y1="3" x2="14" y2="10" />
+              <line x1="3" y1="21" x2="10" y2="14" />
+            </svg>
+            <span>Expand all</span>
+          </button>
+          <button type="button" id="btn-collapse-all" class="btn-secondary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="4 14 10 14 10 20" />
+              <polyline points="20 10 14 10 14 4" />
+              <line x1="14" y1="10" x2="21" y2="3" />
+              <line x1="3" y1="21" x2="10" y2="14" />
+            </svg>
+            <span>Collapse all</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Search status message -->
+      <div id="search-status" class="search-status" aria-live="polite" hidden></div>
+
+      <!-- Breadcrumb Bar -->
+      <nav class="breadcrumb-bar" aria-label="Selected topic path">
+        <span class="breadcrumb-label">Path:</span>
+        <ol id="breadcrumb-list" class="breadcrumb-list">
+          <li class="breadcrumb-placeholder">Select any root, category, or topic below to inspect its path and details</li>
+        </ol>
+      </nav>
+    </section>
+
+    <!-- Main Layout: Interactive Tree + Detail Side Panel -->
+    <div class="workspace-grid">
+      <!-- Tree Region -->
+      <section class="tree-panel" aria-label="Knowledge Tree">
+        <div id="tree-loading" class="tree-loading" role="status">
+          <div class="spinner" aria-hidden="true"></div>
+          <p>Loading knowledge tree...</p>
+        </div>
+        <div id="tree-error" class="tree-error" role="alert" hidden></div>
+        <div id="tree-empty" class="tree-empty" hidden>
+          <p class="empty-title">No matching topics found</p>
+          <p class="empty-desc">Try another keyword or clear your search filter to browse all categories.</p>
+          <button type="button" id="btn-reset-search" class="btn-primary-outline">Clear search filter</button>
+        </div>
+        <div id="tree-root" class="tree-root" role="tree" aria-label="Health and Wealth Knowledge Tree"></div>
+      </section>
+
+      <!-- Side Panel (Desktop Sticky Card / Mobile Bottom Sheet) -->
+      <div id="panel-backdrop" class="panel-backdrop" hidden></div>
+      <aside id="detail-panel" class="detail-panel" aria-label="Selected node details" aria-live="polite">
+        <div class="detail-sheet-handle" aria-hidden="true"></div>
+        <div class="detail-header">
+          <span id="detail-root-badge" class="detail-root-badge">Knowledge Tree</span>
+          <button type="button" id="detail-close-btn" class="detail-close-btn" aria-label="Close details panel">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="18" y1="6" x2="6" y2="18" />
+              <line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          </button>
+        </div>
+
+        <h2 id="detail-title" class="detail-title">Select a Node to Explore</h2>
+        <div id="detail-path" class="detail-path">Health or Wealth &rsaquo; Category &rsaquo; Topic</div>
+
+        <p id="detail-description" class="detail-description">
+          Click any root pillar, category, or specific topic in the tree to view its full path, sub-topics, and book a session or share your expertise on TeleHealth Today.
+        </p>
+
+        <div id="detail-tags-wrapper" class="detail-tags-wrapper" hidden>
+          <h3 class="detail-section-label">Tags</h3>
+          <div id="detail-tags" class="detail-tags"></div>
+        </div>
+
+        <div id="detail-subtopics-wrapper" class="detail-subtopics-wrapper" hidden>
+          <div class="detail-subtopics-header">
+            <h3 id="detail-subtopics-heading" class="detail-section-label">Sub-topics</h3>
+            <span id="detail-subtopics-count" class="detail-subtopics-count">0</span>
+          </div>
+          <ul id="detail-subtopics-list" class="detail-subtopics-list"></ul>
+        </div>
+
+        <div class="detail-cta-box">
+          <a
+            href="https://telehealthtoday.net/"
+            target="_blank"
+            rel="noopener noreferrer"
+            id="detail-cta-link"
+            class="btn-cta"
+          >
+            <span>Find an expert or book an appointment</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+              <polyline points="15 3 21 3 21 9" />
+              <line x1="10" y1="14" x2="21" y2="3" />
+            </svg>
+          </a>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- Lightweight Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p class="footer-disclaimer">
+        Topics are for general education and expert-led sessions, not professional legal, medical or financial advice.
+      </p>
+      <p class="footer-links">
+        <a href="https://telehealthtoday.net/" target="_blank" rel="noopener noreferrer">TeleHealthToday.net</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
